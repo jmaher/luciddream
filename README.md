@@ -1,5 +1,15 @@
 Luciddream is a test harness for running tests between a Firefox browser and another device, such as a Firefox OS emulator.
 
+Mozilla is passionate about making developer tools easier to use on all our systems.  This project helps put automation around our developer tools so we can make working with a Firefox OS application or issue much more streamlined.
+
+Milestones
+==========
+* Get this running in CI (probably travis or buildbot) - goal by end of March 2015
+* Find a more descriptive name and move it to mozilla-central or other central repository
+
+To get involved:
+* ping :ted or :ochameau on irc
+
 Installation and Configuration
 ==============================
 
